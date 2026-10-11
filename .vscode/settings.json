@@ -1,0 +1,4 @@
+{
+    "nixEnvSelector.nixFile": "${workspaceFolder}/vscode.nix",
+    "nixEnvSelector.useFlakes": false
+}
